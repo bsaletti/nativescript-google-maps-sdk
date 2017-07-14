@@ -103,7 +103,7 @@ The following properties are available to you for adjusting camera view.
 
 Property       | Description
 -------------- |:---------------------------------
-`latitude` | number
+`longitude` | number
 `latitude` | number
 `zoom` | number
 `bearing` | number
